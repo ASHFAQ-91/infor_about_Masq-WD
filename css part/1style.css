@@ -1,0 +1,7 @@
+hr {
+    width:10%;
+    border-style:none;
+    border-top-style:dotted;
+    border-color:rgb(105, 97, 97);
+    border-width:7px;
+}
